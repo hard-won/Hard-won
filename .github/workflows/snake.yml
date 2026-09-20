@@ -1,12 +1,9 @@
 name: Generate contribution snake
 
+# Dormant: the README does not currently embed the snake. Re-enable the schedule
+# once the public contribution graph has something on it.
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
