@@ -24,3 +24,13 @@ datapath RTL. Mostly around Chakra, ASTRA-sim, Ramulator2, gem5, vLLM and SGLang
 
 **Writing** — [hard-won.github.io](https://hard-won.github.io): digital design, ASIC
 synthesis, PCIe, GPU architecture.
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hard-won/Hard-won/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hard-won/Hard-won/output/github-snake.svg">
+    <img alt="Contribution graph" src="https://raw.githubusercontent.com/hard-won/Hard-won/output/github-snake.svg">
+  </picture>
+</p>
