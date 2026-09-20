@@ -7,6 +7,8 @@ I work on how real AI workloads turn into memory traffic and network traffic. Th
 
 [![Website](https://img.shields.io/badge/Website-hard--won.github.io-1f6feb?style=flat-square&logo=github&logoColor=white)](https://hard-won.github.io)
 [![Email](https://img.shields.io/badge/Email-hardtowon%40gmail.com-1f6feb?style=flat-square&logo=gmail&logoColor=white)](mailto:hardtowon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shengyi--wei-1f6feb?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shengyi-wei)
+[![X](https://img.shields.io/badge/X-TraderTheSean-1f6feb?style=flat-square&logo=x&logoColor=white)](https://x.com/TraderTheSean)
 
 ## Current Focus
 
@@ -49,6 +51,8 @@ No upstream contributions yet. Reading and working toward contributing in: [MLCo
 
 - Website — [hard-won.github.io](https://hard-won.github.io)
 - Email — [hardtowon@gmail.com](mailto:hardtowon@gmail.com)
+- LinkedIn — [linkedin.com/in/shengyi-wei](https://www.linkedin.com/in/shengyi-wei)
+- X — [@TraderTheSean](https://x.com/TraderTheSean)
 
 ---
 
